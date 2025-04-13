@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background: rgb(157, 157, 247);
+    
+}
+
+a {
+    margin-right: 30px;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+
+
+}
